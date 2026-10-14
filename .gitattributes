@@ -1,0 +1,17 @@
+# Windows 工具：批处理和 PowerShell 脚本一律用 CRLF，
+# 避免 cmd.exe 解析 LF 换行的 .cmd 时出现 goto/label 异常。
+*.cmd  text eol=crlf
+*.bat  text eol=crlf
+*.ps1  text eol=crlf
+*.psm1 text eol=crlf
+
+# 文档用 LF
+*.md   text eol=lf
+*.txt  text eol=lf
+
+# 二进制
+*.png  binary
+*.jpg  binary
+*.gif  binary
+*.ico  binary
+*.exe  binary

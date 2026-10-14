@@ -1,0 +1,14 @@
+# 生成的报告与快照：含机器名、显示器序列号，不要提交
+display-report-*.json
+snapshot-*.json
+
+# 快照的临时测试文件
+snapshot-TEST-*.json
+
+# Windows / 编辑器噪音
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/

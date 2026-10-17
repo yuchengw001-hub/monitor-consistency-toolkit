@@ -77,4 +77,16 @@ Windows 工具：诊断并修正多显示器之间的颜色 / 白点差异，包
 
 ## License
 
-MIT
+软件继续采用 [MIT 许可](LICENSE)，允许商业使用、销售、修改、fork 和再分发。
+软件的所有副本或实质性部分须包含其版权声明与许可声明。欢迎宣传时注明项目来源，
+但这不是 MIT 的额外强制要求，也不要求公开修改代码。
+
+## 官方来源与独立版本
+
+- 官方仓库：[yuchengw001-hub/monitor-consistency-toolkit](https://github.com/yuchengw001-hub/monitor-consistency-toolkit)。
+- 维护者账号：[@yuchengw001-hub](https://github.com/yuchengw001-hub)。
+- 源码下载：从官方仓库的 **Code → Download ZIP** 获取完整文件；版本发布入口为 [GitHub Releases](https://github.com/yuchengw001-hub/monitor-consistency-toolkit/releases)，仅在有发布记录时提供对应版本。
+- 独立修改、收费服务或重新打包时，请清楚说明自己的发布者和独立身份，不得误导为官方发布或获得官方背书；欢迎真实说明兼容性与衍生关系。
+
+详见[来源与署名说明（简体中文 / English）](ATTRIBUTION.md)。本说明不替换 MIT，
+不增加软件许可限制，不撤回历史授权。分发软件时请保留完整 LICENSE 及适用的第三方声明。

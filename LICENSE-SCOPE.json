@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "project": "monitor-consistency-toolkit",
+  "status": "source-published",
+  "licenseVersion": "1.0",
+  "projectLicense": "Source-Available Free Attribution and Restricted Paid Use License 1.0 (custom; not an SPDX identifier)",
+  "contentAndFeeBoundariesApproved": true,
+  "licensorPublicId": "yuchengw001-hub",
+  "authorityBasis": "User explicitly states independent development; applies to original portions the licensor is entitled to license. This is not a complete legal title audit.",
+  "rightsAuditComplete": false,
+  "publicationAuthorized": true,
+  "officialPublicationDate": "2026-10-17",
+  "publishedSoftwareVersion": "source commit; no new installer/package version",
+  "effectivenessRule": "LICENSE 1.0 applies on the 2026-10-17 source publication commit to licensor-owned covered portions; historical and actual third-party rights are preserved.",
+  "baselineCommit": "83cc90ed52de96f64f694ad9871a79eaa478eca7",
+  "originalCopyrightNotice": "Copyright (c) 2026 yuchengw001-hub",
+  "coveredMaterial": [
+    {
+      "path": ".gitattributes",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": ".gitignore",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "1-Check.cmd",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "2-Compare.cmd",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "3-Adjust.cmd",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "4-Restore.cmd",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "Adjust-Monitor.ps1",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "Check-DisplayConsistency.ps1",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "LICENSE",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "LICENSE-MIGRATION.md",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "LICENSE-SCOPE.json",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "README.md",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "scope": "Only the original portions the licensor is entitled to license; historical and actual third-party rights preserved"
+    }
+  ],
+  "excludedOrSeparatelyGoverned": [
+    {
+      "path": "licenses/HISTORICAL-MIT.txt",
+      "reason": "Historical license text/notice record; not a new project-license option"
+    }
+  ],
+  "thirdPartyExceptions": "THIRD-PARTY-NOTICES.md",
+  "historicalLicenseRecord": "licenses/HISTORICAL-MIT.txt",
+  "note": "A new-code requirement is not imposed. No substantive program code was added in this licensing task. Historical MIT grants survive; this is not a current MIT OR custom offer.",
+  "publicationType": "source-license-commit",
+  "sourcePublicationCommit": "The repository commit containing this file; see commit history",
+  "preparedFromDocumentationCommit": "84f73b7aff0e901523a66b98756f16f8188d961b"
+}
